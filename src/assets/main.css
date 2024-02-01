@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Noe Display";
+  src: url("../assets/fonts/noe-display.ttf");
+}
+@font-face {
+  font-family: "Larsseit";
+  src: url("../assets/fonts/larsseit.ttf");
+}
+
+body {
+  font-family: "Larsseit";
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+h1 {
+  font-family: "Noe Display";
+}
