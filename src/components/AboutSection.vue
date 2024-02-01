@@ -80,7 +80,7 @@ import MyButton from "./MyButton.vue";
       <img
         src="../assets/icons/dots-rectangular.svg"
         alt="dots"
-        class="absolute top-[50%] translate-y-[-50%] right-[-10px] translate-x-[100%] z-0"
+        class="absolute top-[50%] translate-y-[-50%] right-[-10px] translate-x-[100%] z-0 hidden md:block"
       />
     </div>
   </section>

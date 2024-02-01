@@ -10,7 +10,7 @@ import Vectors from "./Vectors.vue";
     <Vectors class="z-0 absolute top-0 left-0 w-full h-full" />
     <img src="../assets//img/mountain.png" alt="" class="z-0 absolute bottom-[1500px] left-0">
     <div class="absolute bottom-[700px] left-0 w-full h-[800px] bg-[#011627] z-0"></div>
-    <div class="relative z-10 px-0 md:px-20 lg:px-40">
+    <div class="relative z-10 px-0 md:px-20 lg:px-40 mx-4">
       <TripSection />
       <AboutSection />
       <TestimonialsSection />
