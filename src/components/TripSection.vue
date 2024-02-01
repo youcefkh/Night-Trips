@@ -9,7 +9,7 @@ import MyButton from "./MyButton.vue";
         class="flex flex-col lg:flex-row gap-7 justify-start items-center w-full self-start lg:ml-4 text-white max-lg:flex-wrap"
       >
         <h1
-          class="text-6xl lg:text-7xl font-bold tracking-tighter whitespace-nowrap leading-[79.2px] w-max"
+          class="text-5xl lg:text-7xl font-bold tracking-tighter whitespace-nowrap leading-[79.2px] w-max"
         >
           Pick your trip
         </h1>
@@ -93,7 +93,7 @@ import MyButton from "./MyButton.vue";
       </div>
 
       <div class="div flex flex-col flex-1 self-start relative pb-10">
-        <h1 class="text-6xl tracking-tighter leading-[71.5px]">
+        <h1 class="text-5xl lg:text-7xl tracking-tighter leading-[71.5px]">
           Chill Adventure
         </h1>
         <div class="mt-16 text-base">

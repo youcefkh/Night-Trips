@@ -7,7 +7,7 @@ import MyButton from "./MyButton.vue";
     class="flex flex-col xl:flex-row gap-10 xl:gap-4 justify-between font-bold text-white w-full mt-60 lg:px-40"
   >
     <div class="flex flex-col self-start mt-14 basis-0 px-5">
-      <h1 class="text-6xl lg:text-7xl tracking-tighter leading-[79.2px]">About Us</h1>
+      <h1 class="text-5xl lg:text-7xl tracking-tighter leading-[79.2px]">About Us</h1>
       <div class="mt-12 text-lg tracking-tight leading-7 max-lg:mt-10">
         We’re a team of four passioned people. <br />
         <br />

@@ -16,7 +16,7 @@ import Vectors from "./Vectors.vue";
       <TestimonialsSection />
       <div class="flex flex-col mt-14 max-w-full w-full max-md:my-10 mb-40 pb-40 relative">
         <h1
-          class="self-center text-6xl lg:text-7xl font-bold tracking-[3.6px] text-center text-white leading-[79.2px]"
+          class="self-center text-5xl lg:text-7xl font-bold tracking-[3.6px] text-center text-white leading-[79.2px]"
         >
           See you soon!
         </h1>
