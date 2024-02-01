@@ -4,7 +4,7 @@ import Card from "./Card.vue";
 
 <template>
   <section
-    class="flex justify-center items-center self-stretch px-16 py-12 w-full bg-slate-900 mt-60 mb-40 relative"
+    class="flex justify-center items-center self-stretch md:px-16 py-12 w-full bg-slate-900 mt-60 mb-40 relative"
   >
     <div class="absolute top-[-40px] left-[50%] translate-x-[-50%] h-[70px] w-[2px] bg-white"></div>
     <div class="flex flex-col mt-14 mb-12 max-w-full w-[1044px] max-md:my-10">
