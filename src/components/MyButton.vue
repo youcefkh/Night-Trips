@@ -6,7 +6,7 @@ const props = defineProps({
 
 <template>
   <button
-    class="flex gap-5 justify-center items-center px-20 py-5 w-max bg-cyan-500 rounded-[48px] relative"
+    class="flex gap-5 justify-center items-center px-12 py-4 md:px-20 md:py-5 w-max bg-cyan-500 rounded-[48px] relative m-auto md:m-0"
   >
     <span class="uppercase text-[14px] font-bold tracking-[2.1px]">{{text}}</span>
     <div
