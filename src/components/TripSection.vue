@@ -9,7 +9,7 @@ import MyButton from "./MyButton.vue";
         class="flex flex-col lg:flex-row gap-7 justify-start items-center w-full self-start lg:ml-4 text-white max-lg:flex-wrap"
       >
         <h1
-          class="text-7xl font-bold tracking-tighter whitespace-nowrap leading-[79.2px] w-max"
+          class="text-6xl lg:text-7xl font-bold tracking-tighter whitespace-nowrap leading-[79.2px] w-max"
         >
           Pick your trip
         </h1>

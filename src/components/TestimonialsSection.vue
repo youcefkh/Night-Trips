@@ -9,7 +9,7 @@ import Card from "./Card.vue";
     <div class="absolute top-[-40px] left-[50%] translate-x-[-50%] h-[70px] w-[2px] bg-white"></div>
     <div class="flex flex-col mt-14 mb-12 max-w-full w-[1044px] max-md:my-10">
       <h1
-        class="self-center text-7xl font-bold tracking-[3.6px] text-center text-white leading-[79.2px]"
+        class="self-center text-6xl lg:text-7xl font-bold tracking-[3.6px] text-center text-white leading-[79.2px]"
       >
         People’s thoughts
       </h1>
